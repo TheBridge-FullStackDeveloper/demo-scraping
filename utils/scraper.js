@@ -77,6 +77,6 @@ const scraper = async (url) => {
     }
 }
 
-// scraper('º')
+// scraper('http://books.toscrape.com')
 
 // exportamos nuestra función scraper para poder hacer uso de ella en el controlador que corresponda
